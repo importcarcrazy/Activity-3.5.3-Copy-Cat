@@ -1,10 +1,44 @@
-* {
+.iPhonePRO, .iPhone2, .watch {
+    text-align: center;
     background-color: rgb(251, 251, 253);
 }
+.iphone-img1, .iphone-img2, .watch-img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
 .d-flex {
-     background-color: black;
+    background-color: black;
+    color: white;
 }
 header {
+   text-align: center;
+   background-color: rgb(245, 245, 247);
+}
+.iPhone2 {
     text-align: center;
-    background-color: rgb(245, 245, 247);
+    background-color: rgb(53, 40, 60);
+}
+.iPhone2 h4{
+    color: rgb(253,193,234);
+}
+.iPhone2 h1{
+    color: white;
+}
+.watch {
+    text-align: center;
+    background-color: rgb(251, 251, 253);
+}
+.watch h7 {
+    color: tomato;
+}
+.watch h5 {
+    color: rgb(204,33,39);
+}
+footer {
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }

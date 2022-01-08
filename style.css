@@ -42,3 +42,6 @@ footer {
     margin-left: auto;
     margin-right: auto;
 }
+.bottom-nav {
+    column-count: 5;
+}
